@@ -7,10 +7,9 @@ This project is a backend service for a sentiment analyzer web application. It i
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [API Endpoints](#api-endpoints)
+- [API Endpoints](#endpoints)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -38,7 +37,8 @@ This project is a backend service for a sentiment analyzer web application. It i
 2. **Set Up Virtual Environment**:
      ```bash
      python3 -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+     source venv/bin/activate  # On Windows use          
+     `venv\Scripts\activate`
 
 3. **Install Dependencies**:
      ```bash
