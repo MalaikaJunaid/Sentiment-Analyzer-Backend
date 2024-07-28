@@ -1,4 +1,19 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
 .env
+
+# Environment
 venv/
+env/
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# SQLite database
+*.sqlite3
